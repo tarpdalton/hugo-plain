@@ -1,5 +1,7 @@
 ---
-title: home
+title: Test
+date: 2017-11-09
+tags: ["plain"]
 ---
 
 ## Test
