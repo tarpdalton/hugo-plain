@@ -1,0 +1,8 @@
+baseURL = "http://gist.jamesd.io/"
+languageCode = "en-us"
+DefaultContentLanguage = "en"
+
+title = "Blank Hugo Template"
+theme = "blank"
+themesdir = "themes"
+pygmentsCodeFences = true
